@@ -13,7 +13,8 @@
 
 <h3 align="left">Contato:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-almeida-0bb5a7270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/samuel-almeida-0bb5a7270" height="30" width="40" /></a>
+<a href="militaralmeida25@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="militaralmeida25@gmail.com" height="30" width="100" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/samuel-almeida-0bb5a7270" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/samuel-almeida-0bb5a7270" height="30" width="100" /></a>
 </p>
 
 
