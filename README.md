@@ -13,7 +13,7 @@
 
 <h3 align="left">Contato:</h3>
 <p align="left">
-<a href="militaralmeida25@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="militaralmeida25@gmail.com" height="30" width="100" /></a>
+<a href="https://www.gmail.com/militaralmeida25@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="militaralmeida25@gmail.com" height="30" width="100" /></a>
 <a href="https://www.linkedin.com/in/samuel-almeida-0bb5a7270/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/samuel-almeida-0bb5a7270/" height="30" width="100" /></a>
 </p>
 
