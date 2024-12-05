@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Me chamo Samuel Almeida 👋</h1>
-<h3 align="center"><strong>Desenvolvedor Front-End</strong> apaixonado por criar interfaces incríveis. Especialista em HTML,CSS e JavaScript. Em busca de desafios e crescimento profissional.</h3>
+<h3 align="center"><strong>Desenvolvedor Back-End</strong> apaixonado por construir soluções escaláveis e eficientes 🚀. Em busca de desafios e crescimento profissional.</h3>
 
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelALMEIDA023&show_icons=true&theme=transparent"/>
