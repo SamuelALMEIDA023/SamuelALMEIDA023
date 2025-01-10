@@ -8,7 +8,7 @@
 </div>
 <h3 align="left">Ferramentas:</h3>
 <p align="left">
-  <strong>Sass</strong> - <strong>Gulp</strong> - <strong>Figma</strong>
+  <strong>Sass</strong> - <strong>Gulp</strong> - <strong>Figma</strong> -
   <strong>MySQL</strong> - <strong>Postamn</strong>
 </p>
 
